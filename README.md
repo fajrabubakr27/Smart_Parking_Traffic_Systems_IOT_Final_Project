@@ -50,7 +50,7 @@ The system was simulated on **Wokwi**, connected to **HiveMQ Cloud (MQTT)**, **S
 ---
 
 ##  Authors  
-Developed by students of **Alexandria University – Faculty of Computers and Data Science (Class of 2027)**. 
+Developed by students of **Alexandria & Alexandria National University – Faculty of Computers and Data Science (Class of 2027)**. 
 Salma Abd El-Aziz
 Fajr Abu Bakr
 Arwa Salem

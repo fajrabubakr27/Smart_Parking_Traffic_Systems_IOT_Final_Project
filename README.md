@@ -49,11 +49,6 @@ The system was simulated on **Wokwi**, connected to **HiveMQ Cloud (MQTT)**, **S
 
 ---
 
-##  Screenshots / Diagrams  
-(Add here: system architecture diagram, Wokwi simulation screenshots, HiveMQ dashboard, Flutter app UI)  
-
----
-
 ##  Authors  
 Developed by students of **Alexandria University – Faculty of Computers and Data Science (Class of 2027)**. 
 Salma Abd El-Aziz
